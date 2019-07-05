@@ -1,0 +1,18 @@
+﻿  RayTracer.cpp
+g:\uni work\year 2\semester 2\graphics 2\newtinyray\tinyray\material.h(46): warning C4244: '*=': conversion from 'const double' to 'float', possible loss of data
+g:\uni work\year 2\semester 2\graphics 2\newtinyray\tinyray\material.h(50): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+g:\uni work\year 2\semester 2\graphics 2\newtinyray\tinyray\raytracer.cpp(29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+g:\uni work\year 2\semester 2\graphics 2\newtinyray\tinyray\raytracer.cpp(32): warning C4018: '<': signed/unsigned mismatch
+g:\uni work\year 2\semester 2\graphics 2\newtinyray\tinyray\raytracer.cpp(48): warning C4018: '<': signed/unsigned mismatch
+g:\uni work\year 2\semester 2\graphics 2\newtinyray\tinyray\raytracer.cpp(66): warning C4018: '<': signed/unsigned mismatch
+g:\uni work\year 2\semester 2\graphics 2\newtinyray\tinyray\raytracer.cpp(83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+g:\uni work\year 2\semester 2\graphics 2\newtinyray\tinyray\raytracer.cpp(108): warning C4018: '<': signed/unsigned mismatch
+g:\uni work\year 2\semester 2\graphics 2\newtinyray\tinyray\raytracer.cpp(274): warning C4305: 'argument': truncation from 'double' to 'const float'
+g:\uni work\year 2\semester 2\graphics 2\newtinyray\tinyray\raytracer.cpp(369): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+g:\uni work\year 2\semester 2\graphics 2\newtinyray\tinyray\raytracer.cpp(370): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+g:\uni work\year 2\semester 2\graphics 2\newtinyray\tinyray\raytracer.cpp(371): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+g:\uni work\year 2\semester 2\graphics 2\newtinyray\tinyray\raytracer.cpp(473): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+g:\uni work\year 2\semester 2\graphics 2\newtinyray\tinyray\raytracer.cpp(477): warning C4244: 'argument': conversion from 'const double' to 'const float', possible loss of data
+g:\uni work\year 2\semester 2\graphics 2\newtinyray\tinyray\raytracer.cpp(479): warning C4244: 'argument': conversion from 'const double' to 'const float', possible loss of data
+g:\uni work\year 2\semester 2\graphics 2\newtinyray\tinyray\raytracer.cpp(481): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  TinyRay.vcxproj -> G:\Uni Work\Year 2\Semester 2\Graphics 2\NewTinyRay\Debug\TinyRay.exe

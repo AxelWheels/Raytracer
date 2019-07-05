@@ -1,0 +1,25 @@
+﻿  RayTracer.cpp
+g:\uni work\year 2\semester 2\graphics 2\assignment 1\100335541_tinyray\source\tinyray\Material.h(46): warning C4244: '*=': conversion from 'const double' to 'float', possible loss of data
+g:\uni work\year 2\semester 2\graphics 2\assignment 1\100335541_tinyray\source\tinyray\Material.h(50): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+RayTracer.cpp(28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+RayTracer.cpp(32): warning C4018: '<': signed/unsigned mismatch
+RayTracer.cpp(49): warning C4018: '<': signed/unsigned mismatch
+RayTracer.cpp(66): warning C4018: '<': signed/unsigned mismatch
+RayTracer.cpp(81): warning C4018: '<': signed/unsigned mismatch
+RayTracer.cpp(98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+RayTracer.cpp(126): warning C4018: '<': signed/unsigned mismatch
+RayTracer.cpp(293): warning C4305: 'argument': truncation from 'double' to 'const float'
+RayTracer.cpp(386): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+RayTracer.cpp(387): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+RayTracer.cpp(388): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+RayTracer.cpp(472): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+RayTracer.cpp(478): warning C4244: 'argument': conversion from 'const double' to 'const float', possible loss of data
+RayTracer.cpp(482): warning C4244: 'argument': conversion from 'const double' to 'const float', possible loss of data
+RayTracer.cpp(485): warning C4244: 'argument': conversion from 'const double' to 'const float', possible loss of data
+RayTracer.cpp(487): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  Generating code
+  2 of 744 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TinyRay.vcxproj -> G:\Uni Work\Year 2\Semester 2\Graphics 2\Assignment 1\100335541_tinyray\Source\Release\TinyRay.exe
